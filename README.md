@@ -12,7 +12,7 @@ I'm Kashyap, Software Engineer working in a mid-size startup Servify.
   <img align="left" alt="Kashyap's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
-
+<br />
 Experience in software development with core object oriented concepts, design patterns, reactive programming, dependency injections and other useful technologies, Strong believer in writing sustainable and clean code. Hope to focus more on software development and machine learning in future career.
 
 I love to ride bikes and taste food.
