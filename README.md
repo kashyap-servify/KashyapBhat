@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**KashyapBhat/KashyapBhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kashyap, Software Engineer working in a mid-size startup Servify.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/kashyapbhat/">
+  <img align="left" alt="Kashyap's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="http://youtube.com/kashyapbhat">
+  <img align="left" alt="Kashyap's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/youtube.svg" />
+</a>
+<a href="http://instagram.com/mr__bhat">
+  <img align="left" alt="Kashyap's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience in software development with core object oriented concepts, design patterns, reactive programming, dependency injections and other useful technologies, Strong believer in writing sustainable and clean code. Hope to focus more on software development and machine learning in future career.
+
+I love to ride bikes and taste food.
