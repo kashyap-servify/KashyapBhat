@@ -17,4 +17,4 @@ Software Engineer working at a mid-size startup [@Servify](https://servify.in/).
 <br />
 Experience in software development with core object oriented concepts, design patterns, reactive programming, dependency injections and other useful technologies, Strong believer in writing sustainable and clean code. Hope to focus more on software development and machine learning in future career.
 <br /><br />
-Besides from programming, I love to ride bikes🏍 and taste food🍛.
+Besides from programming, I love to bike rides 🏍 and good food 🍛.
