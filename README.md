@@ -17,4 +17,4 @@ Software Engineer working at [@Servify](https://servify.in/).
 <br />
 Experience in software development with core object oriented concepts, design patterns, reactive programming, dependency injections and few other useful technologies, Strong believer in writing scalable, clean and modular code. Hope to focus more on software development and machine learning in future.
 <br /><br />
-I also love bike rides 🏍 and good food 🍛.
+I also love bike rides and good food.
