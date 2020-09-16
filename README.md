@@ -16,11 +16,5 @@ Software Engineer working at [@Servify](https://servify.in/).
 <br />
 <br />
 Experience in software development with core object oriented concepts, design patterns, reactive programming, dependency injections and other useful technologies, Strong believer in writing scalable clean and modular code. Hope to focus more on software development and machine learning in future.
-<br />
-<br />
-On Android: 
-Android Architecture Components: Data Binding, Dagger2, MVVM, Coroutines, LiveData, RoomDB.
-
-Kotlin, MVP, Android Activity and Fragment Life Cycles, Shared Preferences, Retrofit, okhttp, Material UI Design, Constraint Layouts, Intents, RecyclerView, Custom Adapters, MediaPlayer, Firebase, ML Kit etc!
 <br /><br />
 I love to bike rides 🏍 and good food 🍛.
