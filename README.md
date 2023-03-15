@@ -2,7 +2,7 @@
 
 I'm [Kashyap](https://www.kashyapbhat.in/)
 <br />
-Software Engineer working at [@Servify](https://servify.in/).
+Senior Software Engineer working at [@Servify](https://servify.in/).
 
 <a href="https://www.linkedin.com/in/kashyapbhat/">
   <img align="left" alt="Kashyap's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,6 +15,12 @@ Software Engineer working at [@Servify](https://servify.in/).
 </a>
 <br />
 <br />
-Experience in software development with core object oriented concepts, design patterns, reactive programming, dependency injections and few other useful technologies, Strong believer in writing scalable, clean and modular code. Hope to focus more on software development and machine learning in future.
+
+Software Engineer with 4+ years of experience delivering high quality B2B and B2C applications.
 <br /><br />
-I love bike rides and good food.
+Experience in mobile (android + flutter) development and computer vision (object detection + image segmentation) applications.
+<br /><br />
+Object oriented concepts, Design patterns, Reactive programming, Dependency injections
+Android architecture components (Data Binding, Dagger2, MVVM, Coroutines, LiveData, RoomDB)
+<br /><br />
+I love long rides and good food.
