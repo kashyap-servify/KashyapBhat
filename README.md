@@ -7,7 +7,7 @@ Senior Software Engineer working at [@Servify](https://servify.in/).
 <a href="https://www.linkedin.com/in/kashyapbhat/">
   <img align="left" alt="Kashyap's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="http://youtube.com/kashyapbhat">
+<a href="https://www.youtube.com/@KashyapBhat">
   <img align="left" alt="Kashyap's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="http://instagram.com/mr__bhat">
